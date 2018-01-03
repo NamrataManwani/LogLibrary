@@ -7,7 +7,6 @@ import android.util.Log;
  */
 
 public class LogMethods {
-    private static final String LOGLIBRARY= "LogLibrary";
 
     public static void logDebug(String text) {
         Log.d("LOGLIBRARY",text);
